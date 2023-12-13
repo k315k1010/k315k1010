@@ -1,5 +1,4 @@
 [![Twitter: k315k1010](https://img.shields.io/twitter/follow/k315k1010?style=social)](https://twitter.com/k315k1010)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=k315k1010&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k315k1010&theme=vue)
 
