@@ -1,5 +1,3 @@
-[![Twitter: k315k1010](https://img.shields.io/twitter/follow/k315k1010?style=social)](https://twitter.com/k315k1010)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k315k1010&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k315k1010&show_icons=true)
